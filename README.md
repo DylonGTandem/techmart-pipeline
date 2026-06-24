@@ -71,3 +71,5 @@ This project uses GitHub Actions for continuous integration:
 - `.github/workflows/lint.yml` - checks code style with ruff
 
 When a check fails, the pull request is blocked from merging.
+
+Adding this as a test
